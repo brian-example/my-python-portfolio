@@ -9,7 +9,7 @@ projects = [
           the correct number, display the number of attempts it took them to 
           guess correctly and the mean, median, and mode of the high scores.
         """,
-        "live": "#",
+        "live": "https://replit.com/@brianjensenexam/a-number-guessing-game?v=1",
         "repo": "https://github.com/brian-example/a-number-guessing-game"
     },
     {
